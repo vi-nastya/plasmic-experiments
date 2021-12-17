@@ -6,6 +6,19 @@ module.exports = {
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
+
+{
+  resolve: "@plasmicapp/loader-gatsby",
+  options: {
+    projects: [
+      {
+        id: "vVjGbvUwkV23CBGoevYCby",
+        token: "XCVQWT9PSgekfsxZg0QeOddskpUvRBmE9nFYSHum0ZYNFWB8xDULTbJp98p6rgBJyrCxF3n5plZqyMZJyIQw",
+      },
+    ], // An array of project ids.
+    defaultPlasmicPage: require.resolve("./src/templates/defaultPlasmicPage.jsx"),
+  },
+},
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
