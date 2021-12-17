@@ -1,0 +1,189 @@
+{
+  "props": [
+    {
+      "name": "Blue",
+      "type": "color",
+      "value": "#007AFF",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "Wi0sXM_4M8uq"
+      }
+    },
+    {
+      "name": "Content max width",
+      "type": "spacing",
+      "value": "1080px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "GpLNjEOvrs3m"
+      }
+    },
+    {
+      "name": "dark/blue",
+      "type": "color",
+      "value": "#0A84FF",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "NP-fqaw4qauI"
+      }
+    },
+    {
+      "name": "dark/gray/06",
+      "type": "color",
+      "value": "#1C1C1E",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "7IvIwpLs2rn8"
+      }
+    },
+    {
+      "name": "dark/green",
+      "type": "color",
+      "value": "#32D74B",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "Cg0-AGAwrLlS"
+      }
+    },
+    {
+      "name": "dark/label",
+      "type": "color",
+      "value": "#FFFFFFD9",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "kgXFvWsGNdjo"
+      }
+    },
+    {
+      "name": "dark/quarternary",
+      "type": "color",
+      "value": "#FFFFFF1A",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "kYZkoQWYBRsb"
+      }
+    },
+    {
+      "name": "dark/secondary",
+      "type": "color",
+      "value": "#FFFFFF80",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "gBMwtJv946Yn"
+      }
+    },
+    {
+      "name": "light/blue",
+      "type": "color",
+      "value": "#007AFF",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "IgfogvUH2gmW"
+      }
+    },
+    {
+      "name": "light/gray/05",
+      "type": "color",
+      "value": "#E5E5EA",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "Elnzao14vH6G"
+      }
+    },
+    {
+      "name": "light/gray/06",
+      "type": "color",
+      "value": "#F2F2F7",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "szE4yIV7hqYQ"
+      }
+    },
+    {
+      "name": "light/green",
+      "type": "color",
+      "value": "#34C759",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "BlV1l8GLm2Pj"
+      }
+    },
+    {
+      "name": "light/indigo",
+      "type": "color",
+      "value": "#5856D6",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "KLrK66eKOd3f"
+      }
+    },
+    {
+      "name": "light/label",
+      "type": "color",
+      "value": "#000000D9",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "RTPnLHRbXEL1"
+      }
+    },
+    {
+      "name": "light/quarternary",
+      "type": "color",
+      "value": "#0000001A",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "xd7Q1g-B3GQL"
+      }
+    },
+    {
+      "name": "light/red",
+      "type": "color",
+      "value": "#FF3B30",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "VZVqAXMwu5DC"
+      }
+    },
+    {
+      "name": "light/secondary",
+      "type": "color",
+      "value": "#05050599",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "vN13OrYJIk43"
+      }
+    },
+    {
+      "name": "white",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "vVjGbvUwkV23CBGoevYCby",
+        "id": "IZqz2f8f1FE3"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
